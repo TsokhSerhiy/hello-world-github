@@ -1,1 +1,1 @@
-create your own hello-world-github repository over a GitHub site (5 points)push a text file with some content (length of text should be more than 100 charscommit & push (Bohdan Ptyts don't forget about human readable commit comment)make changes in text file, commit & pushresult: link to repo
+https://github.com/TsokhSerhiy/hello-world-github
